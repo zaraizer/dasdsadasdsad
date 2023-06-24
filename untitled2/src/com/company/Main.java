@@ -54,6 +54,7 @@ public class Main {
         for (int i = 0; i < questions.length; i++) {
             System.out.println(questions[i] + " Answer: " + answers[i]);
         }
+       / ////
     }
 }
 
